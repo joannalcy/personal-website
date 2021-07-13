@@ -1,6 +1,6 @@
-# LitElement TypeScript starter
+# A personal website made from LitElement TypeScript starter
 
-This project includes a sample component using LitElement with TypeScript.
+This [website](https://joannalcy.github.io/personal-website) is made from the [LitElement TypeScript starter](https://github.com/PolymerLabs/lit-element-starter-ts) kit available on GitHub.
 
 ## Setup
 
